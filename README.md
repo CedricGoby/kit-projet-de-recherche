@@ -17,10 +17,9 @@ Ces outils et ressources peuvent également être inclus dans un Plan de Gestion
 >
 Source : Wikipedia
 
-La plupart de ces outils et ressources sont actuellement utilisés en production dans le cadre de projets de recheche.
-
+La plupart de ces outils et ressources sont actuellement utilisés en production dans le cadre de projets de recheche.  
 Quelques uns sont en phase de test pour évaluer leur pertinence en fonction des besoins des utilisateurs.
 
 La prise en main des outls ne nécessite que quelques heures de formation et le retour des utilisateurs est extrêmement positif.
 
-Cette liste est évidemment arbitraire mais elle correspond à de réels cas d'usage.
+Cette sélection est évidemment arbitraire mais elle correspond à de réels cas d'usage.
