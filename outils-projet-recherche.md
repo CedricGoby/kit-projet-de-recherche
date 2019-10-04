@@ -1,6 +1,8 @@
 # Kit Projet de Recherche
 Cette page propose une sélection d'outils pour mener à bien un projet de recherche et produire des données FAIR.  
 
+# Les outils
+
 ***
 
 ## Gestion des tâches
