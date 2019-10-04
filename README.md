@@ -11,6 +11,8 @@ Liés à de bonnes pratiques ils permettent également  de garantir un bon nivea
 
 Pour des questions d'interopérabilité, les formats ouverts et les logiciels open source sont privilégiés.
 
+Pour assurer un support fiable, une maintenance facilitée et un maximum de pérennité, les solutions proposées bénéficient généralement d'une forte communauté de développeurs.
+
 Ces outils et ressources peuvent également être inclus dans un Plan de Gestion des Données (PGD).
 
 >Un plan de gestion des données, Data management plan ou PGD est un document évolutif qui aide le(s) chercheur(s) ou le chargé de projet de la recherche à définir un plan pour gérer les données utilisées et générées dans le cadre de son activité ou de son projet de recherche. Initié au début du projet, ce plan est mis à jour de manière périodique pour s'assurer de son adéquation avec le déroulement de l'activité ou du projet.
