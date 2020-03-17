@@ -154,6 +154,16 @@ https://rendez-vous.renater.fr/home/
 Le service RENATER pour participer à vos réunions en webconférence.
 Accessible directement sur les postes de travail et aussi sur tablettes ou smartphones.
 
+#### Webconf
+https://webconf.numerique.gouv.fr/
+La solution de webconférence de l’Etat est une application libre multi-plateforme de messagerie instantanée et visioconférence.  
+Elle permet de se parler, de se voir, de partager une fenêtre de son écran d’ordinateur, d’écrire du texte sur un document partagé, de correspondre via une messagerie instantanée.
+
+#### Renavisio
+https://renavisio.renater.fr/
+RENAvisio vous permet de bénéficier d’une solution fiable et simple de réservation de ponts de visioconférence via son interface web.  
+Vous avez la possibilité de créer une réunion de manière programmée ou instantanée en fonction de vos besoins.
+
 ## Communication / Évènements
 
 ### Communication externe
