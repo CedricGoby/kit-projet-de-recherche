@@ -102,6 +102,12 @@ Calendar est l'application d'agenda intégrée à Nextcloud.
 https://www.onlyoffice.com/fr/  
 OnlyOffice s'intègre à Nextcloud et comprend une suite d'applications bureautiques en ligne pour travailler depuis un navigateur sur des fichiers Microsoft Office ou Open Document.
 
+### Envoi de fichiers volumineux
+#### FileSender
+https://filesender.renater.fr/
+Transfert sécurisé de fichiers volumineux.  
+Un service développé et hébergé par RENATER pour répondre aux besoins des membres de sa communauté et qui s’appuie sur le logiciel libre FileSender (www.filesender.org)
+
 ### Gestion et partage de documentation
 #### DokuWiki
 https://www.dokuwiki.org/dokuwiki  
@@ -207,7 +213,6 @@ Collaboratif : il facilite les échanges entre les partenaires d’un même proj
 #### eLabFTW
 https://www.elabftw.net  
 eLabFTW est un système sécurisé pour suivre vos expérimentations mais également gérer votre labo.
-
 
 ### Gestion des données
 #### iRODS
