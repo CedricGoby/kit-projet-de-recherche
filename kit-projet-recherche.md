@@ -288,7 +288,6 @@ https://certbot.eff.org/
 Certbot est le client officiel Let's Encrypt, il autorise la récupération depuis la ligne de commande de certificats X.509 valides.
 
 ## Les ressources
-
 ### Formats des données
 
 #### CSV on the Web: A Primer
@@ -302,6 +301,31 @@ Structuration des données, métadonnées...
 #### Data Catalog Vocabulary (DCAT) - Version 2
 https://www.w3.org/TR/2019/PR-vocab-dcat-2-20191119/  
 Structuration des données, métadonnées...
+
+### Plateformes de calcul
+#### FG-cloud
+http://www.france-grilles.fr/catalogue-de-services/fg-cloud/  
+Le service FG-cloud offre à ses utilisateurs un service cloud IaaS qui permet, entre autres : du calcul, du stockage et du réseau à la demande, l’instanciation de clusters, l’instanciation de services Web pour la communauté scientifique, le test d’algorithmes, l’utilisation du logiciel SlipStream pour le déploiement automatique de clusters sur le Cloud.
+
+#### Genci
+http://www.genci.fr/fr  
+En charge de mettre à disposition des moyens de calcul et de traitement de données massives performants, GENCI a pour mission, au niveau national et européen, de favoriser l’usage du calcul intensif associé à l’Intelligence Artificielle au bénéfice des communautés de recherche académique et industrielle
+
+#### MESO@LR
+https://meso-lr.umontpellier.fr/  
+Acteur de la French Tech à Montpellier, ouvert aux entreprises et aux acteurs académiques, publics et privés, le mésocentre Meso@LR est un centre de compétences qui propose des ressources mutualisées et architectures de pointe de calcul intensif (High Performance Computing – HPC) et de traitement massif des données (High Troughput Computing – HTC).
+
+#### Genotoul Bioinfo
+http://bioinfo.genotoul.fr/  
+The GenoToul bioinformatics facility is part of the Genotoul GIS. It has been set up in 2000. Since 2009, it is one of the 13 IBISA bioinformatics platforms. Since 2008, the plateform collaborates with the local genomic platform and processes huge volumes of data produced by second and third generation of sequencers and makes them available to biologists (ng6).
+
+#### Migale
+https://migale.inra.fr/  
+Migale, one of the Collective Scientific Infrastructure of INRAE, is part of the BioinfOmics Research Infrastructure of INRAE for bioinformatics. It is also a member of IFB (Institut Français de Bioinformatique), the French bioinformatics infrastructure and partner of France Génomique, the French genomic infrastructure for which we contribute to support different developments in bioinformatics.
+
+#### Grid5000
+https://www.grid5000.fr/  
+Grid'5000 is a large-scale and flexible testbed for experiment-driven research in all areas of computer science, with a focus on parallel and distributed computing including Cloud, HPC and Big Data and AI.
 
 ***Notes :***
 <b id="f1">1</b> https://fr.wikipedia.org/wiki/Fair_data [↩](#a1)
