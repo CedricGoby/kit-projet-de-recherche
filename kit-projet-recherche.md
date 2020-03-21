@@ -246,6 +246,10 @@ https://jupyter.org
 Jupyter est une application web utilisée pour programmer dans plus de 40 langages de programmation, dont Python, Julia, Ruby, R, ou encore Scala. Jupyter permet de réaliser des calepins ou notebooks, c'est-à-dire des programmes contenant à la fois du texte en markdown et du code en Julia, Python, R... Ces notebooks sont utilisés en science des données pour explorer et analyser des données.
 
 ### Calcul scientifique
+#### Guix
+https://guix.gnu.org/  
+GNU Guix1 est un outil de gestion de paquets et une distribution pour le système GNU. Guix facilite pour les utilisateurs non privilégiés l’installation, la mise à jour et la suppression de paquets, la restauration à un ensemble de paquets précédent, la construction de paquets depuis les sources et plus généralement aide à la création et à la maintenance d’environnements logiciels.
+
 #### Singularity
 https://sylabs.io/singularity/  
 Système de containers pour HPC développé au laboratoire Lawrence Berkeley pour remplir 3 critères :
@@ -306,6 +310,10 @@ Structuration des données, métadonnées...
 #### FG-cloud
 http://www.france-grilles.fr/catalogue-de-services/fg-cloud/  
 Le service FG-cloud offre à ses utilisateurs un service cloud IaaS qui permet, entre autres : du calcul, du stockage et du réseau à la demande, l’instanciation de clusters, l’instanciation de services Web pour la communauté scientifique, le test d’algorithmes, l’utilisation du logiciel SlipStream pour le déploiement automatique de clusters sur le Cloud.
+
+#### CINES
+https://www.cines.fr/calcul/comment-calculer/  
+Tout chercheur appartenant à la communauté scientifique nationale peut, sous le couvert de son laboratoire, faire une demande de ressources sur les machines hébergées au CINES, grâce à l’application en ligne « DARI (Demande d’Attribution de Ressources Informatiques) » . Il expose l’intérêt scientifique de son projet et les moyens nécessaires pour le réaliser. Des Comités Thématiques d’experts nationaux examinent les demandes et proposent les attributions de ressources pour les projets sélectionnés, sur critère d’excellence scientifique. Ce mécanisme sous la responsabilité de GENCI est commun aux centres nationaux, CINES, IDRIS et TGCC.
 
 #### Genci
 http://www.genci.fr/fr  
