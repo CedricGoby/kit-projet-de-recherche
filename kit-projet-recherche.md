@@ -5,20 +5,6 @@ La quasi-totalité des outils proposés sont open source et permettent d'avoir u
 
 Ce document s'adresse en priorité aux informaticiens en charge d'équipes de recherche publique, mais la plupart de ces outils répondent également aux besoins d'associations ou d'entreprises.
 
-## Méthodologie
-Pour permettre l'adoption d'outils par des équipes de recherche il est préférable de montrer du concret. 
-
-En effet, le risque de décrire un outil et son usage avant de pouvoir le montrer est que si votre interlocuteur ne saisit pas clairement votre pensée (ce qui est plus que probable quand on aborde des questions techniques en informatique), l'a-priori sera négatif et c'est un mauvais départ, voire pas de départ du tout.
-
-L'idée est donc de commencer par déployer un outil dans votre coin afin de faire une démo convaincante.
-
-Profitez-en pour documenter les étapes techniques d'installation de  l'outil, tester ses fonctionnalités, estimer ses qualités, ses défauts, ses limites... Vous pourrez déterminer alors si il répond bien à une ou plusieurs problématiques des équipes.
-
-Vous pourrez alors le présenter tout en expliquant ce qu'il peut apporter concrètement.  
-La démo permet aux utilisateurs de visualiser l'interface tout en découvrant comment les fonctionnalités présentées peuvent répondre à certaines problématiques.
-
-Cette méthode vous évitera d'interminables réunions pour demander l'avis des utilisateurs sur des sujets qu'ils ne maîtrisent pas, la production de diaporamas remplis de schénas et de termes à la mode,  ainsi que la rédaction fastidieuse d'un cahier des charges qui ne sera de toute façon pas respecté.
-
 ## Critères de choix des outils
 
   * Open source
